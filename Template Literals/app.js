@@ -15,7 +15,6 @@ document.body.innerHTML = html;
 function hello() {
   return 'hello';
 }
-
 html2 = `
   <ul> 
     <li>Name: ${name}</li>
